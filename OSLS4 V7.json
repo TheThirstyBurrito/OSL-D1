@@ -1,6 +1,6 @@
 {
-	"Name": "Oceanic Sacrificial League - Season 4",
-	"Version": 1756887938,
+	"Name": "Oceanic Sacrificial League - Season V",
+	"Version": 1768827670,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -28,7 +28,6 @@
 				"60",
 				"27",
 				"28",
-				"286",
 				"288",
 				"29",
 				"33",
@@ -57,6 +56,7 @@
 				"72",
 				"73",
 				"74",
+				"295",
 				"77",
 				"79",
 				"80",
@@ -127,6 +127,7 @@
 				"179",
 				"175",
 				"177",
+				"291",
 				"180",
 				"183",
 				"243",
@@ -153,6 +154,7 @@
 				"284",
 				"209",
 				"211",
+				"292",
 				"214",
 				"216",
 				"218",
@@ -173,6 +175,7 @@
 				"250",
 				"251",
 				"239",
+				"293",
 				"257",
 				"241",
 				"242"
@@ -195,20 +198,16 @@
 					"47"
 				],
 				[
-					"52",
-					"38"
-				],
-				[
 					"21",
 					"102"
 				],
 				[
-					"107",
-					"124"
-				],
-				[
 					"281",
 					"112"
+				],
+				[
+					"294",
+					"64"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -252,10 +251,6 @@
 				[
 					"204",
 					"231"
-				],
-				[
-					"178",
-					"264"
 				]
 			]
 		},
@@ -283,6 +278,7 @@
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
 				"21",
+				"286",
 				"36",
 				"38",
 				"39",
@@ -317,6 +313,7 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -357,6 +354,7 @@
 				"8",
 				"21",
 				"246",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -393,6 +391,7 @@
 				"8",
 				"21",
 				"246",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -475,7 +474,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -612,7 +611,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"46"
+				"16"
 			],
 			"BalanceTiers": [
 				0,
@@ -686,15 +685,17 @@
 		{
 			"Name": "The Shape",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"10"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -728,8 +729,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hag",
@@ -1204,19 +1211,14 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"157",
-				"228"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"52",
 				"10",
 				"54",
 				"58",
 				"63",
 				"64",
-				"76",
 				"78"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1449,7 +1451,7 @@
 		{
 			"Name": "The Ghost Face",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"20"
 			],
@@ -1595,9 +1597,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1797,7 +1797,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2014,17 +2014,15 @@
 		{
 			"Name": "The Cenobite",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"16"
+				"33"
 			],
 			"BalanceTiers": [
-				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2089,7 +2087,7 @@
 		{
 			"Name": "The Artist",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -2157,7 +2155,7 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"34"
 			],
@@ -2229,16 +2227,14 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"200"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2294,7 +2290,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -2305,11 +2301,11 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"276"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2460,7 +2456,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"46"
+				"43"
 			],
 			"BalanceTiers": [
 				0,
@@ -2632,7 +2628,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2707,7 +2703,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2798,10 +2794,10 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"52",
+				"10",
 				"58",
 				"63",
-				"76"
+				"64"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2943,7 +2939,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -3022,7 +3018,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "The Glitchtrap and Yellow Rabbit skins are banned",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -3085,6 +3081,65 @@
 					"Addons": []
 				},
 				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Krasue",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				"9"
+			],
+			"BalanceTiers": [
+				0,
+				2
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				2
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
 					"Addons": []
 				}
 			},
