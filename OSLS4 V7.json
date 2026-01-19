@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season V",
-	"Version": 1768827670,
+	"Version": 1768835627,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -528,10 +528,12 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5
 			],
 			"KillerOfferings": [
-				8
+				5
 			]
 		},
 		{
@@ -707,14 +709,28 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				96,
+				95,
+				93,
+				99,
+				87,
+				86
+			],
+			"ItemWhitelist": [
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2087,7 +2103,7 @@
 		{
 			"Name": "The Artist",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"9"
 			],
@@ -3118,17 +3134,49 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				807,
+				808,
+				809,
+				810,
+				811,
+				812,
+				813,
+				814,
+				815,
+				816,
+				817,
+				818,
+				805,
+				806,
+				801,
+				802,
+				803,
+				799
+			],
+			"ItemWhitelist": [
+				0,
+				7,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
