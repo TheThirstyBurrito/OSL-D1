@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season V",
-	"Version": 1768891944,
+	"Version": 1768897502,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -259,13 +259,14 @@
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
 				"142",
+				"143",
 				"157",
 				"164",
 				"171",
 				"172",
+				"291",
 				"198",
 				"200",
-				"151",
 				"204",
 				"212",
 				"272",
@@ -277,6 +278,8 @@
 		{
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
+				"1",
+				"6",
 				"21",
 				"286",
 				"36",
@@ -294,6 +297,7 @@
 				"164",
 				"171",
 				"172",
+				"291",
 				"198",
 				"200",
 				"151",
@@ -332,6 +336,7 @@
 				"164",
 				"171",
 				"172",
+				"291",
 				"198",
 				"200",
 				"204",
@@ -2880,7 +2885,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
