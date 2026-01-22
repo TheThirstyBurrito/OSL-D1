@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season V",
-	"Version": 1768898079,
+	"Version": 1769083665,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2506,7 +2506,9 @@
 				633,
 				635,
 				636,
-				630
+				630,
+				628,
+				634
 			],
 			"ItemWhitelist": [
 				5,
