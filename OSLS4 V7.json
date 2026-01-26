@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season V",
-	"Version": 1769083665,
+	"Version": 1769395151,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -317,6 +317,7 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"21",
+				"246",
 				"286",
 				"34",
 				"36",
@@ -403,6 +404,7 @@
 				"39",
 				"44",
 				"46",
+				"50",
 				"54",
 				"57",
 				"61",
