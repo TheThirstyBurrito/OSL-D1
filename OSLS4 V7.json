@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season V",
-	"Version": 1769604812,
+	"Version": 1770123525,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -251,6 +251,15 @@
 				[
 					"204",
 					"231"
+				],
+				[
+					"151",
+					"210",
+					"220"
+				],
+				[
+					"178",
+					"264"
 				]
 			]
 		},
@@ -299,7 +308,6 @@
 				"291",
 				"198",
 				"200",
-				"151",
 				"204",
 				"212",
 				"272"
@@ -1629,7 +1637,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				358,
-				351
+				351,
+				357
 			],
 			"ItemWhitelist": [
 				5,
@@ -3147,10 +3156,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				807,
-				808,
-				809,
-				810,
 				811,
 				812,
 				813,
@@ -3162,8 +3167,6 @@
 				805,
 				806,
 				801,
-				802,
-				803,
 				799
 			],
 			"ItemWhitelist": [
