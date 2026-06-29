@@ -1,6 +1,6 @@
 {
 	"Name": "OSL Season 6",
-	"Version": 1781939830,
+	"Version": 1782724956,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -28,6 +28,7 @@
 				"28",
 				"286",
 				"288",
+				"312",
 				"33",
 				"108",
 				"43",
@@ -41,6 +42,7 @@
 				"252",
 				"59",
 				"289",
+				"313",
 				"67",
 				"69",
 				"269",
@@ -74,6 +76,7 @@
 				"124",
 				"128",
 				"254",
+				"314",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -3117,7 +3120,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"52"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -3180,8 +3183,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
