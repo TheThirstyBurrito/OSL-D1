@@ -1,6 +1,6 @@
 {
-	"Name": "OSL Season 6",
-	"Version": 1782787641,
+	"Name": "OSL Season 6 V2",
+	"Version": 1783340522,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2165,7 +2165,11 @@
 				"200"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"44",
+				"50",
+				"109"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2176,7 +2180,8 @@
 				557,
 				558,
 				554,
-				548
+				548,
+				555
 			],
 			"ItemWhitelist": [
 				5,
