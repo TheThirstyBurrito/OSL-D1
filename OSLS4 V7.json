@@ -1,6 +1,6 @@
 {
 	"Name": "OSL Season 7",
-	"Version": 1794825452,
+	"Version": 1795164435,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3304,7 +3304,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
