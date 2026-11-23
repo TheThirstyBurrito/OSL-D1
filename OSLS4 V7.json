@@ -1,6 +1,6 @@
 {
-	"Name": "OSL Season 7",
-	"Version": 1795164435,
+	"Name": "OSL Season 7 V2",
+	"Version": 1795441310,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -76,6 +76,7 @@
 				"106",
 				"110",
 				"263",
+				"113",
 				"260",
 				"114",
 				"115",
@@ -264,6 +265,7 @@
 		{
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
+				"21",
 				"38",
 				"69",
 				"80",
@@ -279,6 +281,7 @@
 				"169",
 				"170",
 				"173",
+				"317",
 				"196",
 				"161",
 				"204",
@@ -2308,7 +2311,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"292"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
@@ -2384,7 +2389,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"102"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2742,6 +2749,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
+				"50",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2816,6 +2824,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
+				"50",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
